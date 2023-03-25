@@ -1,0 +1,19 @@
+# Saturday Morning Data Science Projects
+
+Collection of quick & dirty projects aimed to investigate topics that I find interesting.
+
+Name inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH-jI) *"Passion is what you do on Saturday morning"*.
+
+## Rules:
+1. State the `AIM` of the analysis at the beginning of the project
+2. End the notebook with a `Conclusion` section, summarizing the findings, and a `Follow-up` section, listing possible next steps to take
+3. Make intense use of [GitHuub Copilot](https://github.com/features/copilot)
+4. Explore creative uses of [plotly](https://plotly.com/python/) for interactive visualizations
+5. Don't spend more than 2 hours on a project - this is a Saturday morning activity, not a full-blown project that will take weeks to complete
+6. The previous point was totally sugested by Copilot... I'm not sure if I agree with it, but it's a fair reminder!
+7. Don't be too strict in using statisticly sound methods (for sake of time), but be open to critics in case the analisis was too handwaving
+8. Come back from time to time, to revise the narrative of the analysis to make it clearer and clearer
+9. Be totally open to commens, suggestions, and collaborations
+10. Don't have more than 10 rules
+
+## Projects on [nbViewer](https://nbviewer.org/)
