@@ -17,7 +17,7 @@ Name inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH
 10. Don't have more than 10 rules
 
 ## Projects on [nbViewer](https://nbviewer.org/)
-1. Will I ever retire in Italy?
-1.1 [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
-1.2 [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
-1.3 Future projections of retired/working population
+### 01 - Will I ever retire in Italy?
+1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
+2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
+3. Future projections of retired/working population
