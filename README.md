@@ -8,7 +8,7 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 ### 01 - Will I ever retire in Italy?
 1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
-3. Future projections of retired/working population
+3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb?flush_cache=true)
 
 ## Rules:
 1. State the `AIM` of the analysis at the beginning of the project
