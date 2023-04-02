@@ -9,6 +9,12 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
 3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb?flush_cache=true)
+### 02 - Where will S&P500 be in 1 month?
+1. Comparing COT report data with S&P500 returns
+### 03 - Which is the most efficient healty diet? 
+1. Scraping Esselunga's database in search of the foods with highest protein/euro ratio
+2. Visualizing Jackson-Pollock equations for BMI estimation
+
 
 ## Rules:
 1. State the `AIM` of the analysis at the beginning of the project
