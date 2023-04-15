@@ -29,7 +29,7 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 2. Visualizing Jackson-Pollock equations for BMI estimation
 
 
-## :pushpin: Rules:
+## :pushpin: Rules
 
 1. State the `AIM` of the analysis at the beginning of the project
 2. End the notebook with a `Conclusions` section, summarizing the findings, and a `Follow-up` section, listing possible next steps to take
