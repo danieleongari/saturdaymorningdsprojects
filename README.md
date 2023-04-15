@@ -4,7 +4,7 @@ Collection of quick & dirty data science projects aimed to investigate topics th
 
 Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH-jI): *"Fun" is what you do on Saturday morning*.
 
-## Projects on [nbViewer](https://nbviewer.org/)
+## :bar_chart: Projects on [nbViewer](https://nbviewer.org/)
 
 ### 01 - Will I ever retire in Italy?
 
