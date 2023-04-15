@@ -8,7 +8,7 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 
 ### 01 - Will I ever retire in Italy?
 
-Tools: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open-meteo.com/)
+:hammer_and_wrench: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open-meteo.com/)
 
 1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
@@ -17,19 +17,19 @@ Tools: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open
 
 ### 02 - Where will S&P500 be in 1 month?
 
-Tools: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
+:hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
 
 1. Comparing COT report data with S&P500 returns
 
 ### 03 - Which is the most efficient healty diet? 
 
-Tools: [esselunga-scrape](https://github.com/limi7break/esselunga-scrape), [Project Nutrition](https://www.projectinvictus.it/libri/project-nutrition/)
+:hammer_and_wrench: [esselunga-scrape](https://github.com/limi7break/esselunga-scrape), [Project Nutrition](https://www.projectinvictus.it/libri/project-nutrition/)
 
 1. Scraping Esselunga's database in search of the foods with highest protein/euro ratio
 2. Visualizing Jackson-Pollock equations for BMI estimation
 
 
-## Rules:
+## :pushpin: Rules:
 
 1. State the `AIM` of the analysis at the beginning of the project
 2. End the notebook with a `Conclusions` section, summarizing the findings, and a `Follow-up` section, listing possible next steps to take
