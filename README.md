@@ -7,15 +7,24 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 ## Projects on [nbViewer](https://nbviewer.org/)
 
 ### 01 - Will I ever retire in Italy?
+
+Tools: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open-meteo.com/)
+
 1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
 3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb)
 4. [Estimating the sustainable retirement age](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/4_sustainable_retirement_age.ipynb)
 
 ### 02 - Where will S&P500 be in 1 month?
+
+Tools: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
+
 1. Comparing COT report data with S&P500 returns
 
 ### 03 - Which is the most efficient healty diet? 
+
+Tools: [esselunga-scrape](https://github.com/limi7break/esselunga-scrape), [Project Nutrition](https://www.projectinvictus.it/libri/project-nutrition/)
+
 1. Scraping Esselunga's database in search of the foods with highest protein/euro ratio
 2. Visualizing Jackson-Pollock equations for BMI estimation
 
