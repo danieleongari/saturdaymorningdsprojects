@@ -1,0 +1,8 @@
+# Python/Jupyter temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Name as x_{title}.ipynb the notebooks you don't want to commit yet (e.g., highly exploratory studies) 
+*x_*.ipynb
