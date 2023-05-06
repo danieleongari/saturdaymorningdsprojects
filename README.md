@@ -15,11 +15,13 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb)
 4. [Estimating the sustainable retirement age](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/4_sustainable_retirement_age.ipynb)
 
-### 02 - Where will S&P500 be in 1 month?
+### 02 - Can I time the market (S&P 500)?
 
 :hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
 
-1. Comparing COT report data with S&P500 returns
+1. [Visualizing Ashwat Damodaran's analysis](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/1_damodaran_analysis.ipynb)
+2. Comparing COT report data with S&P500 returns
+3. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
 
 ### 03 - Which is the most efficient healty diet? 
 
