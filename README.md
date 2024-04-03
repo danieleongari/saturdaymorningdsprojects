@@ -14,6 +14,7 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
 3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb)
 4. [Estimating the sustainable retirement age](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/4_sustainable_retirement_age.ipynb)
+5. [Split population growth rate in mortality and migration balance](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/5_mortality_and_pgr.ipynb)
 
 ### 02 - Can I time the market (S&P 500)?
 
