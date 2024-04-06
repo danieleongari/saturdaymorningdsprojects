@@ -11,7 +11,7 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 :hammer_and_wrench: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open-meteo.com/)
 
 All main results are summarized in [this website](https://danieleongari.github.io/demographic_model_page/). <br>
-The following links brings to the visualization of the single notebooks:
+The following links bring to the visualization of the single notebooks:
 
 1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
 2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
