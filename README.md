@@ -19,6 +19,8 @@ The following links bring to the visualization of the single notebooks:
 4. [Estimating the sustainable retirement age](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/4_sustainable_retirement_age.ipynb)
 5. [Split population growth rate in mortality and migration balance](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/5_mortality_and_pgr.ipynb)
 
+> **DEPRECADED**: in June 2024 I updated the project by spliting the mortality rate and migration balance, reorganizing the notebooks, and hosting the updated project in [Demographic Model Page](https://github.com/danieleongari/demographic_model_page).
+
 ### 02 - Can I time the market (S&P 500)?
 
 :hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
