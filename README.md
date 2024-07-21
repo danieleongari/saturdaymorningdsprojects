@@ -26,8 +26,9 @@ The following links bring to the visualization of the single notebooks:
 :hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
 
 1. [Visualizing Ashwat Damodaran's analysis](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/1_damodaran_analysis.ipynb)
-2. Comparing COT report data with S&P500 returns
-3. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
+2. [Best US portfolios with ca. 100y of backtesting](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/2_backtesting_usa_100y.ipynb)
+3. Comparing COT report data with S&P500 returns
+4. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
 
 ### 03 - Which is the most efficient healty diet? 
 
