@@ -27,8 +27,9 @@ The following links bring to the visualization of the single notebooks:
 
 1. [Visualizing Ashwat Damodaran's analysis](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/1_damodaran_analysis.ipynb)
 2. [Best US portfolios with ca. 100y of backtesting](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/2_backtesting_usa_100y.ipynb)
-3. Comparing COT report data with S&P500 returns
-4. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
+3. [McQuarrie's thesis on similar returns for stocks and long term bonds](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/3_bonds_stocks_are_same.ipynb)
+4. Comparing COT report data with S&P500 returns
+5. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
 
 ### 03 - Which is the most efficient healty diet? 
 
