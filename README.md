@@ -10,15 +10,6 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 
 :hammer_and_wrench: [istatapi](https://github.com/Attol8/istatapi), [open-meteo](https://open-meteo.com/)
 
-All main results are summarized in [this website](https://danieleongari.github.io/demographic_model_page/). <br>
-The following links bring to the visualization of the single notebooks:
-
-1. [Investigating Italian population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/1_investigating_italian_population.ipynb)
-2. [What's the killer of 2003?](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/2_whats_the_killer_of_2003.ipynb)
-3. [Modelling the future population](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/3_modelling_future_population.ipynb)
-4. [Estimating the sustainable retirement age](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/4_sustainable_retirement_age.ipynb)
-5. [Split population growth rate in mortality and migration balance](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/01_will_i_ever_retire_in_italy/5_mortality_and_pgr.ipynb)
-
 > **DEPRECADED**: in June 2024 I updated the project by spliting the mortality rate and migration balance, reorganizing the notebooks, and hosting the updated project in [Demographic Model Page](https://github.com/danieleongari/demographic_model_page).
 
 ### 02 - Can I time the market (S&P 500)?
