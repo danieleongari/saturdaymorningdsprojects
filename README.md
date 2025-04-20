@@ -4,7 +4,7 @@ Collection of quick & dirty data science projects aimed to investigate topics th
 
 Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH-jI): *"Fun" is what you do on Saturday morning*.
 
-## :bar_chart: Projects on [nbViewer](https://nbviewer.org/)
+## :bar_chart: Projects on [nbViewer](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/)
 
 ### 01 - Will I ever retire in Italy?
 
@@ -12,22 +12,24 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 
 > **DEPRECADED**: in June 2024 I updated the project by spliting the mortality rate and migration balance, reorganizing the notebooks, and hosting the updated project in [Demographic Model Page](https://github.com/danieleongari/demographic_model_page).
 
-### 02 - Can I time the market (S&P 500)?
+### 02 - What is the optimal portfolio for my investments?
 
-:hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports) 
+:hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports), [historical-data](https://github.com/paolocole/Stock-Indexes-Historical-Data)
 
-1. [Visualizing Ashwat Damodaran's analysis](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/1_damodaran_analysis.ipynb)
-2. [Best US portfolios with ca. 100y of backtesting](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/2_backtesting_usa_100y.ipynb)
-3. [McQuarrie's thesis on similar returns for stocks and long term bonds](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/blob/master/02_sp500_timing/3_bonds_stocks_are_same.ipynb)
-4. Comparing COT report data with S&P500 returns
-5. Do I beat the market if I enter when it is -XXX% and axit when it is +YYY%?
+1. Visualizing Ashwat Damodaran's analysis
+2. Best US portfolios with ca. 100y of backtesting
+3. McQuarrie's thesis on similar returns for stocks and long term bonds
+4. Extending @paolocole 's comparison of Market-Cap-, Country-Equally-, and Stock-Equally-Weighted portfolios
+5. Best portfolio in USD with US, EXUS, EME stocks and Gold (1999-2025 backtesting)
+* Comparing COT report data with S&P500 returns
+* Do I beat the market if I enter when it is -XXX% and exit when it is +YYY%?
 
 ### 03 - Which is the most efficient healty diet? 
 
 :hammer_and_wrench: [esselunga-scrape](https://github.com/limi7break/esselunga-scrape), [Project Nutrition](https://www.projectinvictus.it/libri/project-nutrition/)
 
-1. Scraping Esselunga's database in search of the foods with highest protein/euro ratio
-2. Visualizing Jackson-Pollock equations for BMI estimation
+* Scraping Esselunga's database in search of the foods with highest protein/euro ratio
+* Visualizing Jackson-Pollock equations for BMI estimation
 
 
 ## :pushpin: Rules
