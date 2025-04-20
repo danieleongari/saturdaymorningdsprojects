@@ -2,9 +2,7 @@
 
 Collection of quick & dirty data science projects aimed to investigate topics that I find interesting.
 
-Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH-jI): *"Fun" is what you do on Saturday morning*.
-
-## :bar_chart: Projects on [nbViewer](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/)
+## :bar_chart: See all projects on [nbViewer](https://nbviewer.org/github/danieleongari/saturdaymorningdsprojects/)
 
 ### 01 - Will I ever retire in Italy?
 
@@ -31,16 +29,19 @@ Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qB
 * Scraping Esselunga's database in search of the foods with highest protein/euro ratio
 * Visualizing Jackson-Pollock equations for BMI estimation
 
-
 ## :pushpin: Rules
 
 1. State the `AIM` of the analysis at the beginning of the project
 2. End the notebook with a `Conclusions` section, summarizing the findings, and a `Follow-up` section, listing possible next steps to take
 3. Make intense use of [GitHub Copilot](https://github.com/features/copilot)
-4. Explore creative uses of [plotly](https://plotly.com/python/) for interactive visualizations
-5. *Don't spend more than 2 hours on a project - this is a Saturday morning activity, not a full-blown project that will take weeks to complete*
-6. The previous point was totally sugested by Copilot... I'm not sure if I agree with it, but it's a fair reminder
+4. Explore creative uses of [plotly](https://plotly.com/python/) for interactive visualizations, and remember to [use nbviewer propery](https://github.com/danieleongari/nbviewer_test)
+5. *Don't spend more than 2 hours on a single notebook - this is a Saturday morning activity, not a full-blown project that will take weeks to complete*
+6. The previous point was totally sugested by Copilot... I'm not sure if I agree with it, but it's a fair reminder that after 2h you get stuck in recent opinions and it is better to stop and come back later
 7. Don't be too strict in using statisticly sound methods (for sake of time), but be open to critics in case the analisis was too handwaving
 8. Come back from time to time, to revise the narrative of the analysis to make it clearer and clearer
 9. Be totally open to comments, suggestions, and collaborations: for any of them, open an Issue or a Pull Request
 10. Don't have more than 10 rules
+
+--
+
+Title inspired from [Andriew Ng's quote](https://www.youtube.com/watch?v=733m6qBH-jI): *"Fun" is what you do on Saturday morning*.
