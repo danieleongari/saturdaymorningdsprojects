@@ -2,7 +2,9 @@
 
 Aiming to answer the following question: What is the optimal portfolio for my investments?
 
-:hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports), [historical-data](https://github.com/paolocole/Stock-Indexes-Historical-Data)
+Please visit: https://danieleongari.github.io/financial_investigations/
+
+:hammer_and_wrench: **Tools:** [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports), [historical-data](https://github.com/paolocole/Stock-Indexes-Historical-Data)
 
 ## Legacy
 
