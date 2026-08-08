@@ -4,17 +4,6 @@ Aiming to answer the following question: What is the optimal portfolio for my in
 
 :hammer_and_wrench: [yfinance](https://github.com/ranaroussi/yfinance), [cot_reports](https://github.com/danieleongari/cot_reports), [historical-data](https://github.com/paolocole/Stock-Indexes-Historical-Data)
 
-## Notebooks:
-
-1. Visualizing Ashwat Damodaran's analysis
-2. Best US portfolios with ca. 100y of backtesting
-3. McQuarrie's thesis on similar returns for stocks and long term bonds
-4. Extending @paolocole 's comparison of Market-Cap-, Country-Equally-, and Stock-Equally-Weighted portfolios
-5. Best portfolio in USD with US, EXUS, EME stocks and Gold (1999-2025 backtesting)
-6. Recreating my own [Fear and Greed Index](https://money.cnn.com/data/fear-and-greed/) with macro data
-* Comparing COT report data with S&P500 returns
-* Do I beat the market if I enter when it is -XXX% and exit when it is +YYY%?
-
 ## Legacy
 
 This repository was previosly named "Saturday Morning Projects" to experiment with copilot + fun research. 
