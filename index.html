@@ -29,16 +29,36 @@
       color: #111827;
     }
 
+    h2 {
+      margin-top: 0;
+      font-size: 1.75rem;
+      color: #111827;
+    }
+
+    h3 {
+      margin-bottom: 8px;
+      font-size: 1.1rem;
+    }
+
     p {
       margin: 12px 0;
     }
 
-    ul {
+    ul,
+    ol {
       padding-left: 24px;
     }
 
     li {
       margin: 12px 0;
+    }
+
+    code {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      background: #e5e7eb;
+      border-radius: 4px;
+      padding: 2px 6px;
+      color: #111827;
     }
 
     a {
@@ -52,6 +72,32 @@
 
     .repo-links {
       margin-top: 20px;
+    }
+
+    .legacy-content {
+      margin-top: 34px;
+      border: 1px solid #bfdbfe;
+      border-radius: 14px;
+      padding: 24px 24px 12px;
+      background: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.8);
+    }
+
+    .legacy-content h2 {
+      margin-bottom: 12px;
+      color: #1e3a8a;
+    }
+
+    .legacy-content ol {
+      margin-top: 12px;
+    }
+
+    .legacy-content li {
+      line-height: 1.55;
+    }
+
+    .legacy-content p {
+      color: #334155;
     }
   </style>
 </head>
@@ -103,8 +149,29 @@
         <h3><a href="notebooks_html/7_bootstrap_method_101.html">7. Bootstrap Method 101</a></h3>
         <p>A small methodological notebook exploring bootstrap procedures for financial-data inference and uncertainty.</p>
       </article>
-
     </div>
+
+    <section class="legacy-content">
+      <h2>Legacy</h2>
+
+      <p>This repository was previously named "Saturday Morning Projects" to experiment with copilot + fun research.</p>
+      <p>Then several projects moved to dedicated repositories, and this one was renamed to "Financial Investigations" to focus on financial research.</p>
+
+      <p>I stated the following rules for the notebooks:</p>
+
+      <ol>
+        <li>State the <code>AIM</code> of the analysis at the beginning of the project</li>
+        <li>End the notebook with a <code>Conclusions</code> section, summarizing the findings, and a <code>Follow-up</code> section, listing possible next steps to take</li>
+        <li>Make intense use of <a href="https://github.com/features/copilot">GitHub Copilot</a></li>
+        <li>Explore creative uses of <a href="https://plotly.com/python/">plotly</a> for interactive visualizations, and remember to <a href="https://github.com/danieleongari/nbmirror">use nbmirror properly</a></li>
+        <li><em>Don't spend more than 2 hours on a single notebook - this is a Saturday morning activity, not a full-blown project that will take weeks to complete</em></li>
+        <li>The previous point was totally suggested by Copilot... I'm not sure if I agree with it, but it's a fair reminder that after 2h you get stuck in recent opinions and it is better to stop and come back later</li>
+        <li>Don't be too strict in using statistically sound methods (for sake of time), but be open to critics in case the analysis was too handwaving</li>
+        <li>Come back from time to time, to revise the narrative of the analysis to make it clearer and clearer</li>
+        <li>Be totally open to comments, suggestions, and collaborations: for any of them, open an Issue or a Pull Request</li>
+        <li>Don't have more than 10 rules</li>
+      </ol>
+    </section>
   </main>
 </body>
 </html>
